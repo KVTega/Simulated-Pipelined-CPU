@@ -1,5 +1,4 @@
 # Simulated-Pipelined-CPU
-# sim5.c - Pipeline Simulator
 
 ## Overview
 This `sim5.c` file simulates parts of a MIPS-like processor pipeline. The code processes MIPS instructions through different stages of the pipeline: Instruction Decode (ID), Execute (EX), Memory Access (MEM), and Write Back (WB). It handles instruction parsing, branch control, forwarding, stalling, and ALU operations.
