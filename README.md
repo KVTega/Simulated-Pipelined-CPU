@@ -1,1 +1,1 @@
-# Simulated-Single-Cycle-CPU
+# Simulated-Pipelined-CPU
